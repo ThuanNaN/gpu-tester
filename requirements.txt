@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+peft
+trl
+datasets
+bitsandbytes
+qwen-vl-utils
+Pillow
+numpy
